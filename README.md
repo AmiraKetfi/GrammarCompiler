@@ -13,6 +13,7 @@ A C,Bison and Flex Compiler for Definer Grammar
     * Output Files : TS.txt and Quadruplets.txt
 #### How To Run And Execute : 
 On your terminal Execute the following Commands :
-``` > flex flex.l 
-``` > bison -d bison.y 
-``` > gcc lex.yy.c bison.tab.c -lfl -ly
+``` 
+>flex flex.l 
+>bison -d bison.y 
+>gcc lex.yy.c bison.tab.c -lfl -ly
