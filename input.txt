@@ -1,0 +1,54 @@
+/*Le programme commence*/
+
+Prg{ 
+/*Partie Déclaration*/
+Uint q,qq_,qq_u,jk1;
+define Uint x=2222222223 ;
+define Uint y=20; //les constantes
+define Ufloat AMINE=3.10; define Ufloat amira = 17.38 ;
+Uint j1,j1;
+Uint s,j,J,i,h,C;
+ Uint j1,j2,y; //les vars
+
+/*Parti Instruction*/
+{
+/*
+x=56;
+
+s=f;
+a=4;
+
+q=4+9*6-1+6*5;
+ B=17.3152;
+
+//COMMENTAIRE2
+REPEAT :i=1 :(i<10): i=i+1:
+j=j/2 ;
+c=c+j ;
+ENDREPEAT
+
+
+CHECK (  i>5 ) :
+
+  REPEAT :J=0 :(J<i+1*10): J=J+2:
+  j=j/2 ;
+  c=c+j ;
+  ENDREPEAT
+
+j=j/2 ;
+j=j/5 ;
+
+h=1;
+
+h=5;
+
+ENDCHECK
+*/
+CHECK (( so>=10) | (!(so==0)) ) :
+j=j/2 ;
+j=j/5 ;
+ENDCHECK
+
+}
+}
+

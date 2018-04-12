@@ -1,0 +1,21 @@
+
+                  /********Table des symboles*********/
+	___________________________________________________________________
+	|   NomEntite    |  NatureEntite    |  TypeEntite  |   Ligne Entite
+	___________________________________________________________________
+	|            jk1 |    Identifiant   |      Entier  |           5
+	|           qq_u |    Identifiant   |      Entier  |           5
+	|            qq_ |    Identifiant   |      Entier  |           5
+	|              q |    Identifiant   |      Entier  |           5
+	|              x |      Constante   |      Entier  |           6
+	|              y |      Constante   |      Entier  |           7
+	|          AMINE |      Constante   |       Réel  |           8
+	|          amira |      Constante   |       Réel  |           8
+	|             j1 |    Identifiant   |      Entier  |           9
+	|              C |    Identifiant   |      Entier  |          10
+	|              h |    Identifiant   |      Entier  |          10
+	|              i |    Identifiant   |      Entier  |          10
+	|              J |    Identifiant   |      Entier  |          10
+	|              j |    Identifiant   |      Entier  |          10
+	|              s |    Identifiant   |      Entier  |          10
+	|             j2 |    Identifiant   |      Entier  |          11
